@@ -23,6 +23,30 @@
 13. Windows 系统下提升管理员权限，伪装进程。
 14. 提供 `/metrics` 接口，返回系统资源信息与运行状态。
 15. 优雅关闭与任务清理，确保所有请求完成后退出。
+### 文件结构：
+```
+Simple-Server1
+├─ admin
+│  └─ admin.html
+├─ config.json
+├─ logs
+│  ├─ client.log
+│  └─ server.log
+├─ metrics
+│  └─ (空).txt
+├─ server
+│  ├─ 403.html
+│  ├─ 404.html
+│  ├─ index.html
+│  └─ static
+│     ├─ icon
+│     │  ├─ favicon-0.ico
+│     │  └─ favicon-1.png
+│     └─ js
+│        ├─ 404.js
+│        └─ stat.js
+└─ sever.py
+```
 
 ## 技术概述
 
