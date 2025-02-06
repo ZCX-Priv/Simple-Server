@@ -25,7 +25,7 @@
 15. 优雅关闭与任务清理，确保所有请求完成后退出。
 ### 文件结构：
 ```
-Simple-Server1
+Simple-Server
 ├─ admin
 │  └─ admin.html
 ├─ config.json
