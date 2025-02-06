@@ -1,0 +1,9 @@
+{
+    "port": 8080,
+    "ssl_enabled": false,
+    "ssl_cert": "cert.pem",
+    "ssl_key": "key.pem",
+    "denied_ips": [],
+    "open_browser": true,
+    "cache_max_age": 3600
+}
