@@ -172,7 +172,3 @@ python server.py --daemon --port 8080
 - **权限问题**：如果在 Windows 上运行，请确保具有管理员权限。服务器可以自动提升权限（如果需要）。
 - **配置重新加载**：如果服务器没有检测到配置文件的变化，确保已安装 `watchdog` 或轮询任务正常运行。
 
----
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ZCX-Priv/Simple-Server&type=Date)](https://star-history.com/#ZCX-Priv/Simple-Server&Date)
