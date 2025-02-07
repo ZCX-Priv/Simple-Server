@@ -3,6 +3,9 @@
 > [!WARNING]
 > 建设中，未完待续。
 
+> [!NOTE]
+> 练手项目，代码质量较差，不喜勿喷。
+
 ## 概述
 
 **Simple-Server** 是一个功能丰富且高度可配置的 Web 服务器，使用 **Python** 编写。它提供了多个高级功能，例如自定义错误页面、IP 访问控制、SSL 支持、日志记录等。该服务器旨在灵活并易于扩展，内置工具用于监控、配置热加载和优雅关闭。
@@ -170,3 +173,6 @@ python server.py --daemon --port 8080
 - **配置重新加载**：如果服务器没有检测到配置文件的变化，确保已安装 `watchdog` 或轮询任务正常运行。
 
 ---
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ZCX-Priv/Simple-Server&type=Date)](https://star-history.com/#ZCX-Priv/Simple-Server&Date)
